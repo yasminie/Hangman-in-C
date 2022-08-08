@@ -1,1 +1,1 @@
-# Hangman-in-C
+# Hangman in C
